@@ -1,0 +1,4 @@
+requests
+mss
+pynput 
+
